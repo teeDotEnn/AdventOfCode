@@ -1,0 +1,13 @@
+C:\Users\tim\repos\AdventOfCode\Problem1\bin\Debug\netcoreapp3.1\Problem1.exe
+C:\Users\tim\repos\AdventOfCode\Problem1\bin\Debug\netcoreapp3.1\Problem1.deps.json
+C:\Users\tim\repos\AdventOfCode\Problem1\bin\Debug\netcoreapp3.1\Problem1.runtimeconfig.json
+C:\Users\tim\repos\AdventOfCode\Problem1\bin\Debug\netcoreapp3.1\Problem1.runtimeconfig.dev.json
+C:\Users\tim\repos\AdventOfCode\Problem1\bin\Debug\netcoreapp3.1\Problem1.dll
+C:\Users\tim\repos\AdventOfCode\Problem1\bin\Debug\netcoreapp3.1\Problem1.pdb
+C:\Users\tim\repos\AdventOfCode\Problem1\obj\Debug\netcoreapp3.1\Problem1.csprojAssemblyReference.cache
+C:\Users\tim\repos\AdventOfCode\Problem1\obj\Debug\netcoreapp3.1\Problem1.AssemblyInfoInputs.cache
+C:\Users\tim\repos\AdventOfCode\Problem1\obj\Debug\netcoreapp3.1\Problem1.AssemblyInfo.cs
+C:\Users\tim\repos\AdventOfCode\Problem1\obj\Debug\netcoreapp3.1\Problem1.csproj.CoreCompileInputs.cache
+C:\Users\tim\repos\AdventOfCode\Problem1\obj\Debug\netcoreapp3.1\Problem1.dll
+C:\Users\tim\repos\AdventOfCode\Problem1\obj\Debug\netcoreapp3.1\Problem1.pdb
+C:\Users\tim\repos\AdventOfCode\Problem1\obj\Debug\netcoreapp3.1\Problem1.genruntimeconfig.cache

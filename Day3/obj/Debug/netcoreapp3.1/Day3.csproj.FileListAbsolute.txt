@@ -1,0 +1,13 @@
+C:\Users\tim\repos\AdventOfCode\Day3\bin\Debug\netcoreapp3.1\Day3.exe
+C:\Users\tim\repos\AdventOfCode\Day3\bin\Debug\netcoreapp3.1\Day3.deps.json
+C:\Users\tim\repos\AdventOfCode\Day3\bin\Debug\netcoreapp3.1\Day3.runtimeconfig.json
+C:\Users\tim\repos\AdventOfCode\Day3\bin\Debug\netcoreapp3.1\Day3.runtimeconfig.dev.json
+C:\Users\tim\repos\AdventOfCode\Day3\bin\Debug\netcoreapp3.1\Day3.dll
+C:\Users\tim\repos\AdventOfCode\Day3\bin\Debug\netcoreapp3.1\Day3.pdb
+C:\Users\tim\repos\AdventOfCode\Day3\obj\Debug\netcoreapp3.1\Day3.csprojAssemblyReference.cache
+C:\Users\tim\repos\AdventOfCode\Day3\obj\Debug\netcoreapp3.1\Day3.AssemblyInfoInputs.cache
+C:\Users\tim\repos\AdventOfCode\Day3\obj\Debug\netcoreapp3.1\Day3.AssemblyInfo.cs
+C:\Users\tim\repos\AdventOfCode\Day3\obj\Debug\netcoreapp3.1\Day3.csproj.CoreCompileInputs.cache
+C:\Users\tim\repos\AdventOfCode\Day3\obj\Debug\netcoreapp3.1\Day3.dll
+C:\Users\tim\repos\AdventOfCode\Day3\obj\Debug\netcoreapp3.1\Day3.pdb
+C:\Users\tim\repos\AdventOfCode\Day3\obj\Debug\netcoreapp3.1\Day3.genruntimeconfig.cache

@@ -17,7 +17,7 @@ namespace Day2
 
                 int outputIndex = inputArray[i+3];
 
-
+                //Run the program
                 if(opCode != 1 && opCode != 2)
                 {
                     Console.WriteLine($"Stopping execution: OPCODE 99 or Unknown OPCODE at index {i}");
@@ -28,12 +28,19 @@ namespace Day2
                 {
                     inputArray[outputIndex] = Operation(opCode, inputArray[inputOne], inputArray[inputTwo]);
                 }
+                
+                
             }
 
             Console.WriteLine($"{inputArray[0]}");
             
         }
 
+        static int PartTwo(int[] input, int goal)
+        {
+            
+            return 0;
+        }
         static int Operation(int op, int inputOne, int inputTwo)
         {
             switch (op)

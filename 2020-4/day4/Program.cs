@@ -31,6 +31,7 @@ namespace day4
                 }
 
             }
+
             //Not sure why this isn't working, but oh well
             string[] fields = { "byr", "iyr", "eyr", "hgt", "hcl", "ecl", "pid", "cid" };
             Console.WriteLine($"Number of Passports: {passports}");

@@ -28,15 +28,17 @@ public class Day5 {
         
         boardingPasses = processor.readPasses(PATH);
         long highestId = 0;
-        for(String s:boardingPasses){
+        for(int i = 0; i<boardingPasses.size(); i++){
             //firstSubstring : FBBFBBB
             //BFFFBBFRRR
-            String sRow = s.substring(0,7);
-            String sCol = s.substring(7,10);
+            String sRow = boardingPasses.get(i).substring(0,7);
+            String sCol = boardingPasses.get(i).substring(7,10);
+            //BBFBFBBRRR
             int row = processor.getRow(sRow);
             int col = processor.getCol(sCol);
             
             long id = (row*8)+col;
+            System.out.println("Id: " + id);
             if(id > highestId){
                 highestId = id;
             }
